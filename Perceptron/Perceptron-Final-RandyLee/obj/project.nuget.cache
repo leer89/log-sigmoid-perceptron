@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "udTmRSmlfTB7SCt0Z9l22m2GbSBvcpEVQF5XgiIsJso9fF3RJdABQwSa77U8TwPMdenDQQDyUynTnxPUyZ4V0w==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\Perceptron\\Perceptron-Final-RandyLee\\Perceptron-Final-RandyLee.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Randy Lee\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

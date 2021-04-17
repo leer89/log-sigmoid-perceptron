@@ -1,0 +1,13 @@
+C:\Projects\Perceptron\Perceptron-Final-RandyLee\bin\Debug\netcoreapp3.1\Perceptron-Final-RandyLee.exe
+C:\Projects\Perceptron\Perceptron-Final-RandyLee\bin\Debug\netcoreapp3.1\Perceptron-Final-RandyLee.deps.json
+C:\Projects\Perceptron\Perceptron-Final-RandyLee\bin\Debug\netcoreapp3.1\Perceptron-Final-RandyLee.runtimeconfig.json
+C:\Projects\Perceptron\Perceptron-Final-RandyLee\bin\Debug\netcoreapp3.1\Perceptron-Final-RandyLee.runtimeconfig.dev.json
+C:\Projects\Perceptron\Perceptron-Final-RandyLee\bin\Debug\netcoreapp3.1\Perceptron-Final-RandyLee.dll
+C:\Projects\Perceptron\Perceptron-Final-RandyLee\bin\Debug\netcoreapp3.1\Perceptron-Final-RandyLee.pdb
+C:\Projects\Perceptron\Perceptron-Final-RandyLee\obj\Debug\netcoreapp3.1\Perceptron-Final-RandyLee.csprojAssemblyReference.cache
+C:\Projects\Perceptron\Perceptron-Final-RandyLee\obj\Debug\netcoreapp3.1\Perceptron-Final-RandyLee.AssemblyInfoInputs.cache
+C:\Projects\Perceptron\Perceptron-Final-RandyLee\obj\Debug\netcoreapp3.1\Perceptron-Final-RandyLee.AssemblyInfo.cs
+C:\Projects\Perceptron\Perceptron-Final-RandyLee\obj\Debug\netcoreapp3.1\Perceptron-Final-RandyLee.csproj.CoreCompileInputs.cache
+C:\Projects\Perceptron\Perceptron-Final-RandyLee\obj\Debug\netcoreapp3.1\Perceptron-Final-RandyLee.dll
+C:\Projects\Perceptron\Perceptron-Final-RandyLee\obj\Debug\netcoreapp3.1\Perceptron-Final-RandyLee.pdb
+C:\Projects\Perceptron\Perceptron-Final-RandyLee\obj\Debug\netcoreapp3.1\Perceptron-Final-RandyLee.genruntimeconfig.cache
